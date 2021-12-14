@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react'
 import './App.css'
 import Layout from './views/Layout/Layout'
 import Home from './views/Home/Home'
